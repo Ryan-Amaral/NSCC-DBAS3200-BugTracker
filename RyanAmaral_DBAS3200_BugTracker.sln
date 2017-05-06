@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RyanAmaral_DBAS3200_BugTracker", "RyanAmaral_DBAS3200_BugTracker\RyanAmaral_DBAS3200_BugTracker.csproj", "{D53E3481-1304-4463-88D0-0CEC1D519F6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RyanAmaral_DBAS3200_BugTracker_DataLayer", "RyanAmaral_DBAS3200_BugTracker_DataLayer\RyanAmaral_DBAS3200_BugTracker_DataLayer.csproj", "{2A2A5171-1D48-4733-9B82-64CF20BED63D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53E3481-1304-4463-88D0-0CEC1D519F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53E3481-1304-4463-88D0-0CEC1D519F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53E3481-1304-4463-88D0-0CEC1D519F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53E3481-1304-4463-88D0-0CEC1D519F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2A5171-1D48-4733-9B82-64CF20BED63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2A5171-1D48-4733-9B82-64CF20BED63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2A5171-1D48-4733-9B82-64CF20BED63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2A5171-1D48-4733-9B82-64CF20BED63D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
